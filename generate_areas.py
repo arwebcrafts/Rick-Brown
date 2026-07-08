@@ -10,10 +10,10 @@ areas = [
     "zip": "60061",
     "county": "Lake County",
     "primary": True,
-    "title": "Vernon Hills Realtor | Homes for Sale in 60061 | Rick Brown Coldwell Banker",
-    "meta": "Looking for a Vernon Hills realtor in ZIP 60061? Rick Brown at Coldwell Banker helps buyers and sellers with pricing, offers, and local market strategy. Call 847-400-6018.",
+    "title": "Vernon Hills Realtor | Homes for Sale in 60061 | Rick Brown RE/MAX",
+    "meta": "Looking for a Vernon Hills realtor in ZIP 60061? Rick Brown at RE/MAX helps buyers and sellers with pricing, offers, and local market strategy. Call 847-400-6018.",
     "h1": "Vernon Hills realtor for buyers and sellers in ZIP 60061",
-    "lead": "Rick Brown is a Coldwell Banker realtor focused on Vernon Hills, IL 60061. Get clear guidance on buying, selling, or timing both moves in this Lake County market.",
+    "lead": "Rick Brown is a RE/MAX realtor focused on Vernon Hills, IL 60061. Get clear guidance on buying, selling, or timing both moves in this Lake County market.",
     "about": "Vernon Hills sits in the heart of southern Lake County with shopping at Hawthorn and Mellody Farm, strong park district amenities, and quick access to I-94. Buyers often compare Gregg's Landing and nearby master-planned streets with townhome and condo options closer to retail corridors. Sellers in 60061 need pricing that reflects school boundaries, updates, and recent nearby closings, not a county-wide average.",
     "buyer": "When you buy in Vernon Hills, Rick helps you target the right inventory lane, schedule tours efficiently, and write offers that fit local competition. Whether you want a single-family home near parks or a lower-maintenance attached property, the plan starts with real comps for 60061.",
     "seller": "Selling in 60061 means positioning against live demand. Rick covers pre-list prep, pricing strategy, listing presentation, showing feedback, and negotiation through closing so DOM does not drift without a reason.",
@@ -29,8 +29,8 @@ areas = [
     "zip": "60048",
     "county": "Lake County",
     "primary": False,
-    "title": "Libertyville Realtor | Homes for Sale in 60048 | Rick Brown Coldwell Banker",
-    "meta": "Need a Libertyville realtor near ZIP 60048? Rick Brown Coldwell Banker helps with downtown homes, later neighborhoods, buyer offers, and seller pricing. Office at 1133 So. Milwaukee Ave. Call 847-400-6018.",
+    "title": "Libertyville Realtor | Homes for Sale in 60048 | Rick Brown RE/MAX",
+    "meta": "Need a Libertyville realtor near ZIP 60048? Rick Brown RE/MAX helps with downtown homes, later neighborhoods, buyer offers, and seller pricing. Office at 1133 So. Milwaukee Ave. Call 847-400-6018.",
     "h1": "Libertyville realtor helping buyers and sellers in ZIP 60048",
     "lead": "Based at 1133 So. Milwaukee Ave. in Libertyville, Rick Brown supports buyers and sellers across 60048 with local pricing, showing strategy, and clean transaction management.",
     "about": "Libertyville is known for a walkable downtown, historic residential character, Metra access, and recreation around Independence Grove. Traditional neighborhoods near downtown attract buyers who want older architecture and walkability, while later neighborhoods offer a more classic suburban layout. Pricing here is sensitive to location relative to downtown, schools, and updates.",
@@ -48,8 +48,8 @@ areas = [
     "zip": "60089",
     "county": "Lake County / Cook County edge",
     "primary": False,
-    "title": "Buffalo Grove Realtor | Homes for Sale in 60089 | Rick Brown Coldwell Banker",
-    "meta": "Buffalo Grove realtor for ZIP 60089. Rick Brown Coldwell Banker helps buyers and sellers with local comps, offers, and listing strategy near Lake County. Call 847-400-6018.",
+    "title": "Buffalo Grove Realtor | Homes for Sale in 60089 | Rick Brown RE/MAX",
+    "meta": "Buffalo Grove realtor for ZIP 60089. Rick Brown RE/MAX helps buyers and sellers with local comps, offers, and listing strategy near Lake County. Call 847-400-6018.",
     "h1": "Buffalo Grove realtor for ZIP 60089 buyers and sellers",
     "lead": "Rick Brown helps homeowners and relocating buyers navigate Buffalo Grove 60089 with practical pricing, clear offer guidance, and local market context.",
     "about": "Buffalo Grove offers family-oriented neighborhoods, a practical price mix, and convenient access across Lake and Cook County corridors. Buyers often weigh attached homes against single-family streets. Sellers need accurate positioning because 60089 demand can move differently from neighboring Vernon Hills or Wheeling.",
@@ -67,8 +67,8 @@ areas = [
     "zip": "60090",
     "county": "Cook County / Lake County edge",
     "primary": False,
-    "title": "Wheeling Realtor | Homes for Sale in 60090 | Rick Brown Coldwell Banker",
-    "meta": "Wheeling IL realtor for ZIP 60090. Rick Brown Coldwell Banker supports buyers and sellers with market comps, negotiations, and a clear home search plan. Call 847-400-6018.",
+    "title": "Wheeling Realtor | Homes for Sale in 60090 | Rick Brown RE/MAX",
+    "meta": "Wheeling IL realtor for ZIP 60090. Rick Brown RE/MAX supports buyers and sellers with market comps, negotiations, and a clear home search plan. Call 847-400-6018.",
     "h1": "Wheeling realtor covering ZIP 60090 for buyers and sellers",
     "lead": "If you are buying or selling in Wheeling 60090, Rick Brown brings Lake County and NW suburban market experience to your offer, pricing, and closing timeline.",
     "about": "Wheeling attracts buyers looking for connectivity, practical inventory, and access into the northwest suburbs. The ZIP often serves move-up and first-time buyers who want value relative to neighboring Buffalo Grove or Arlington Heights. Local comps matter because attached and detached inventory can behave differently.",
@@ -86,8 +86,8 @@ areas = [
     "zip": "60093",
     "county": "Cook County North Shore",
     "primary": False,
-    "title": "Winnetka & Northfield Realtor | ZIP 60093 | Rick Brown Coldwell Banker",
-    "meta": "Realtor for Winnetka and Northfield ZIP 60093. Rick Brown Coldwell Banker assists with North Shore buying and selling strategy, pricing, and negotiations. Call 847-400-6018.",
+    "title": "Winnetka & Northfield Realtor | ZIP 60093 | Rick Brown RE/MAX",
+    "meta": "Realtor for Winnetka and Northfield ZIP 60093. Rick Brown RE/MAX assists with North Shore buying and selling strategy, pricing, and negotiations. Call 847-400-6018.",
     "h1": "Winnetka & Northfield realtor for buyers and sellers in 60093",
     "lead": "Rick Brown helps clients evaluating Winnetka and Northfield 60093 with careful pricing, discreet representation, and a plan that respects North Shore buyer expectations.",
     "about": "ZIP 60093 covers Winnetka and Northfield, markets where presentation, lot, school context, and renovation quality can shift pricing quickly. Buyers and sellers often need nuanced comps rather than broad average values. Rick pairs North Shore expectations with clear next steps.",
@@ -105,10 +105,10 @@ areas = [
     "zip": "60094",
     "county": "Cook County",
     "primary": False,
-    "title": "Palatine Realtor | Homes & Seller Help in 60094 | Rick Brown Coldwell Banker",
-    "meta": "Palatine realtor support for ZIP 60094. Rick Brown Coldwell Banker helps with home search, listing strategy, and negotiations. Call 847-400-6018 for a free consult.",
+    "title": "Palatine Realtor | Homes & Seller Help in 60094 | Rick Brown RE/MAX",
+    "meta": "Palatine realtor support for ZIP 60094. Rick Brown RE/MAX helps with home search, listing strategy, and negotiations. Call 847-400-6018 for a free consult.",
     "h1": "Palatine realtor helping clients in and around ZIP 60094",
-    "lead": "Rick Brown supports buyers and sellers connected to Palatine 60094 with straightforward market guidance and full transaction coordination through Coldwell Banker.",
+    "lead": "Rick Brown supports buyers and sellers connected to Palatine 60094 with straightforward market guidance and full transaction coordination through RE/MAX.",
     "about": "Palatine buyers and sellers often need help translating neighborhood differences into price and timing decisions. Whether you are relocating into the northwest suburbs or preparing a local sale, Rick keeps the plan simple and local. Coverage for 60094 is part of a broader set that includes Arlington Heights and Buffalo Grove.",
     "buyer": "Buyers get help defining must-haves, touring options that match budget, and writing competitive but responsible offers.",
     "seller": "Sellers get a clear pricing frame, listing prep priorities, and negotiation support from first showing through closing.",
@@ -124,8 +124,8 @@ areas = [
     "zip": "60005",
     "county": "Cook County",
     "primary": False,
-    "title": "Arlington Heights Realtor | ZIP 60005 Homes | Rick Brown Coldwell Banker",
-    "meta": "Arlington Heights realtor for ZIP 60005. Rick Brown Coldwell Banker helps buyers and sellers with local comps, Metra-town living, and listing strategy. Call 847-400-6018.",
+    "title": "Arlington Heights Realtor | ZIP 60005 Homes | Rick Brown RE/MAX",
+    "meta": "Arlington Heights realtor for ZIP 60005. Rick Brown RE/MAX helps buyers and sellers with local comps, Metra-town living, and listing strategy. Call 847-400-6018.",
     "h1": "Arlington Heights realtor for buyers and sellers in ZIP 60005",
     "lead": "Rick Brown helps people buying or selling in Arlington Heights 60005 with practical market advice, strong negotiation support, and a clean path to closing.",
     "about": "Arlington Heights is a classic train-town northwest suburb with established residential streets and active buyer interest around lifestyle and commute. ZIP 60005 can include a mix of housing styles, so local comps and condition drive pricing more than ZIP-wide averages alone.",
@@ -187,11 +187,11 @@ for a in areas:
       {{
         "@type": "RealEstateAgent",
         "@id": "https://rickbrownhomes.com/#business",
-        "name": "Rick Brown | Coldwell Banker",
+        "name": "Rick Brown | RE/MAX",
         "image": "https://rickbrownhomes.com/images/rick-brown-720.jpg",
         "url": "https://rickbrownhomes.com/",
         "telephone": "+18474006018",
-        "email": "rick.brown@cbexchange.com",
+        "email": "rick.brown@remax.net",
         "address": {{
           "@type": "PostalAddress",
           "streetAddress": "1133 So. Milwaukee Ave.",
@@ -240,11 +240,11 @@ for a in areas:
 <body>
   <div class="topbar">
     <div class="container">
-      <span>Coldwell Banker · {a["city"]} {a["zip"]}</span>
+      <span>RE/MAX · {a["city"]} {a["zip"]}</span>
       <span>
         <a href="tel:+18474006018">847-400-6018</a>
         ·
-        <a href="mailto:rick.brown@cbexchange.com">rick.brown@cbexchange.com</a>
+        <a href="mailto:rick.brown@remax.net">rick.brown@remax.net</a>
       </span>
     </div>
   </div>
@@ -253,7 +253,7 @@ for a in areas:
     <div class="container">
       <a class="brand" href="../index.html">
         <span class="brand-name">Rick Brown</span>
-        <span class="brand-tag">Coldwell Banker</span>
+        <span class="brand-tag">RE/MAX</span>
       </a>
       <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false">☰</button>
       <nav class="nav" aria-label="Primary">
@@ -282,12 +282,12 @@ for a in areas:
     <section class="section section-tight" style="background:#fff;border-bottom:1px solid var(--line)">
       <div class="container split about-split" style="gap:1.5rem;align-items:center">
         <div class="split-visual photo-frame">
-          <img class="agent-portrait-clean" src="../images/rick-brown-600.jpg" srcset="../images/rick-brown-400.jpg 400w, ../images/rick-brown-600.jpg 600w, ../images/rick-brown-720.jpg 720w" sizes="280px" alt="Rick Brown, Coldwell Banker realtor" width="280" height="280" loading="lazy" decoding="async">
+          <img class="agent-portrait-clean" src="../images/rick-brown-600.jpg" srcset="../images/rick-brown-400.jpg 400w, ../images/rick-brown-600.jpg 600w, ../images/rick-brown-720.jpg 720w" sizes="280px" alt="Rick Brown, RE/MAX realtor" width="280" height="280" loading="lazy" decoding="async">
         </div>
         <div>
           <p class="eyebrow">Your realtor</p>
           <h2 style="font-family:var(--font-display);font-size:1.9rem;margin:0 0 .5rem">Rick Brown · 177 total sales</h2>
-          <p style="margin:0;color:var(--muted)">Coldwell Banker agent specializing in buyer representation, listings, and new construction. Rick helps buyers and sellers in {a["city"]} with pricing, negotiation, and a personal approach built on trust.</p>
+          <p style="margin:0;color:var(--muted)">RE/MAX agent specializing in buyer representation, listings, and new construction. Rick helps buyers and sellers in {a["city"]} with pricing, negotiation, and a personal approach built on trust.</p>
           <div class="profile-links" style="margin-top:1rem">
             <a class="btn btn-dark" href="https://www.zillow.com/profile/user8984945" target="_blank" rel="noopener noreferrer">Zillow profile</a>
             <a class="btn btn-outline" href="https://www.facebook.com/rick.brown.925602" target="_blank" rel="noopener noreferrer">Facebook</a>
@@ -311,7 +311,7 @@ for a in areas:
         <ul class="check-list">
           <li>Free consultation by phone, text, or email</li>
           <li>Local comps and pricing conversation before you commit</li>
-          <li>Buyer and seller representation through Coldwell Banker</li>
+          <li>Buyer and seller representation through RE/MAX</li>
           <li>Office at 1133 So. Milwaukee Ave., Libertyville, IL 60048</li>
         </ul>
       </div>
@@ -334,7 +334,7 @@ for a in areas:
           </details>
           <details>
             <summary>How do I contact Rick Brown?</summary>
-            <p>Call or text 847-400-6018, email rick.brown@cbexchange.com, or use the form below. Connect on <a href="https://www.zillow.com/profile/user8984945" target="_blank" rel="noopener noreferrer">Zillow</a> or <a href="https://www.facebook.com/rick.brown.925602" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
+            <p>Call or text 847-400-6018, email rick.brown@remax.net, or use the form below. Connect on <a href="https://www.zillow.com/profile/user8984945" target="_blank" rel="noopener noreferrer">Zillow</a> or <a href="https://www.facebook.com/rick.brown.925602" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
           </details>
         </div>
       </div>
@@ -365,7 +365,7 @@ for a in areas:
             </div>
             <div>
               <dt>Email</dt>
-              <dd><a href="mailto:rick.brown@cbexchange.com">rick.brown@cbexchange.com</a></dd>
+              <dd><a href="mailto:rick.brown@remax.net">rick.brown@remax.net</a></dd>
             </div>
             <div>
               <dt>Office NAP</dt>
@@ -417,7 +417,7 @@ for a in areas:
     <div class="container footer-grid">
       <div>
         <h2>Rick Brown</h2>
-        <p>Coldwell Banker · {a["city"]} {a["zip"]} and surrounding markets.</p>
+        <p>RE/MAX · {a["city"]} {a["zip"]} and surrounding markets.</p>
         <p style="margin-top:1rem">1133 So. Milwaukee Ave.<br>Libertyville, IL 60048<br><a href="tel:+18474006018">847-400-6018</a></p>
       </div>
       <div>
@@ -437,7 +437,7 @@ for a in areas:
       </div>
     </div>
     <div class="container footer-bottom">
-      <span>© 2026 Rick Brown | Coldwell Banker</span>
+      <span>© 2026 Rick Brown | RE/MAX</span>
       <span>Equal Housing Opportunity</span>
     </div>
   </footer>

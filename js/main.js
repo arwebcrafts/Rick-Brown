@@ -79,8 +79,8 @@
     );
 
     // Functional fallback: opens the agent email with a ready lead draft
-      window.location.href =
-      "mailto:rick.brown@cbexchange.com?subject=" + subject + "&body=" + body;
+    window.location.href =
+      "mailto:rick.brown@remax.net?subject=" + subject + "&body=" + body;
 
     showStatus(
       "Thanks, " + name.split(" ")[0] + ". Your email draft is opening so you can send it to Rick. You can also call or text 847-400-6018.",
